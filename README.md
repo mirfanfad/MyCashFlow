@@ -89,4 +89,4 @@ This is one way to run your app — you can also run it directly from within And
 
 ## ScreenShot Apps
 
-![Screenshot](/screenshots/IMG_3380D21136D3-1.jpeg){: style="max-width: 50%;"} // adjust the image size for better visibility
+![Screenshot](/screenshots/IMG_3380D21136D3-1.jpeg)
