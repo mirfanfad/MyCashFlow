@@ -2,11 +2,6 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # CashFlow - PRMTBNK
 
-## Tech Stack
-
-- [React Native]
-- [Redux]
-
 ## Folder Structure
 
 ```
@@ -30,6 +25,11 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 │       └── format.ts
 └── App.tsx
 ```
+
+## Tech Stack
+
+- [React Native]
+- [Redux]
 
 # Getting Started
 
