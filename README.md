@@ -28,8 +28,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ## Tech Stack
 
-- React Native
-- Redux
+- [React Native]: https://reactnative.dev/
+- [Redux]: https://redux-toolkit.js.org/
 
 # Getting Started
 
@@ -91,4 +91,4 @@ This is one way to run your app — you can also run it directly from within And
 
 ## ScreenShot Apps
 
-![Screenshot](/screenshots/IMG_3380D21136D3-1.jpeg)
+![Screenshot](/screenshots/IMG_3380D21136D3-1.jpeg){: style="max-width: 50%;"} // adjust the image size for better visibility
