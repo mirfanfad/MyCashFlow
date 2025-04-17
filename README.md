@@ -28,8 +28,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ## Tech Stack
 
-- [React Native]
-- [Redux]
+- React Native
+- Redux
 
 # Getting Started
 
