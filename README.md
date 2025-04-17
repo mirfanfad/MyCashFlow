@@ -1,8 +1,39 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# CashFlow - PRMTBNK
+
+## Tech Stack
+
+- [React Native]
+- [Redux]
+
+## Folder Structure
+
+```
+├── src
+│   ├── components
+│   │   ├── AddTransactionModal.tsx
+│   │   ├── TotalBalance.tsx
+│   │   └── TransactionItem.tsx
+│   ├── data
+│   │   ├── actions
+│   │   │   └── financialActions.ts
+│   │   ├── reducers
+│   │   │   └── financialReducers.ts
+│   │   └── store
+│   │       └── index.ts
+│   ├── screens
+│   │   └── MainScreen.tsx
+│   ├── types
+│   │   └── index.ts
+│   └── utils
+│       └── format.ts
+└── App.tsx
+```
+
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
