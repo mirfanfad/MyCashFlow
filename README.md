@@ -40,11 +40,11 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 > **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ```bash
-git clone https://github.com/Rickyarians/expense-tracker-pmtbnk.git
+git clone https://github.com/mirfanfad/MyCashFlow.git
 ```
 
 ```bash
-cd expense-tracker-pmtbnk
+cd MyCashFlow
 ```
 
 ## Step 2: Start the Metro Server
